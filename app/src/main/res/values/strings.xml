@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KeyBoardSamples</string>
+    <string-array name="spinner">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
